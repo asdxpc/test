@@ -1,0 +1,1 @@
+INFO     root:log.py:39 正在测试tag.get

@@ -1,0 +1,5 @@
+INFO     root:log.py:39 正在测试tag.creat
+INFO     root:log.py:39 {
+  "errcode": 60112,
+  "errmsg": "Warning: wrong json format. invalid name, hint: [1634988532_161_3dc3e5049b346df9f217030d0d119a04], from ip: 120.244.40.105, more info at https://open.work.weixin.qq.com/devtool/query?e=60112"
+}

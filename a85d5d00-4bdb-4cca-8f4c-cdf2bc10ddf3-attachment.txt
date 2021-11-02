@@ -1,0 +1,5 @@
+INFO     root:log.py:39 正在测试tag.creat
+INFO     root:log.py:39 {
+  "errcode": 60103,
+  "errmsg": "Warning: wrong json format. invalid mobile, hint: [1634988505_161_28e6df923788f30fa0d4acf2586946fd], from ip: 120.244.40.105, more info at https://open.work.weixin.qq.com/devtool/query?e=60103"
+}

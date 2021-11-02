@@ -1,0 +1,6 @@
+INFO     root:log.py:39 正在测试tag.creat
+INFO     root:log.py:39 {
+  "errcode": 301015,
+  "errmsg": "Warning: wrong json format. avatar_mediaid invalid, hint: [1634991275_161_34623fef25c57d2acb9296ab7fe926b6], from ip: 120.244.40.105, more info at https://open.work.weixin.qq.com/devtool/query?e=301015"
+}
+ERROR    root:log.py:43 301015

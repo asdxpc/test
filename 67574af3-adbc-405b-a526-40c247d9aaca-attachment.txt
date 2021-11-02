@@ -1,0 +1,36 @@
+INFO     root:log.py:39 正在测试tag.get
+INFO     root:log.py:39 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "dfmfdsdfdddfsffddf",
+  "name": "fddsffetdfufd",
+  "department": [
+    1,
+    2
+  ],
+  "position": "",
+  "mobile": "13804729100",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc862d35ac1596e7d3",
+  "alias": "ddssedfssdd",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}

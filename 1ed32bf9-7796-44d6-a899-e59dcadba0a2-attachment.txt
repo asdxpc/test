@@ -1,0 +1,9 @@
+INFO     root:log.py:39 正在测试tag.get
+INFO     root:log.py:39 {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1634965490_148_3efcfc4cfeb421ec231f951c739877eb], from ip: 120.244.40.105, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+ERROR    root:log.py:43 60111！=dfmfdsdfdddfsffddf

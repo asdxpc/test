@@ -1,0 +1,5 @@
+INFO     root:log.py:39 正在测试tag.creat
+INFO     root:log.py:39 {
+  "errcode": 0,
+  "errmsg": "created"
+}
